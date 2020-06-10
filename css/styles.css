@@ -1039,6 +1039,15 @@ input[type='checkbox'] {
 	background-size: cover; 
 
 }
+h1.ex:hover
+{font-size: 400%;
+background-color: rgba(11, 37, 59, 0.7);
+}
+a.p-large:hover
+{
+	font-size: 180%;
+	}
+
 
 .basic-1 h2 {
 	margin-bottom: 1.125rem;
